@@ -9,7 +9,8 @@ To start our engagement with Social Buzz, we are running a 3 month initial proje
 - An analysis of their content categories that highlights the top 5 categories with the largest aggregate popularity
 
 Main Tasks:
-- Creation of an up-to-date big data best practices presentation - Extraction of sample data sets using SQL
+- Creation of an up-to-date big data best practices presentation 
+- Extraction of sample data sets using SQL
 - On-site audit of their data-center
 - Merging of sample data set tables
 - Virtual session with Social Buzz team to present previous client success stories relevant to them
